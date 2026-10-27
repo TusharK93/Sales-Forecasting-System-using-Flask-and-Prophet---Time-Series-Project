@@ -347,4 +347,8 @@ GitHub: [TusharK93](https://github.com/TusharK93)
 
 ⭐ If you find this project useful, consider giving the repository a star.
 
-**Disclaimer:** This project is intended for educational and demonstration purposes. Forecasts are estimates and should be evaluated against business requirements before being used for operational decisions.
+<p align="center">
+  <img src="sales.jpg" alt="Sales Forcasting System end-to-end Project" width="100%">
+</p>
+
+
